@@ -1,0 +1,8 @@
+[build-system]
+requires=[]
+build-backend="setuptools.build_meta"
+[project]
+name="holiday_health"
+version="0.1.0"
+description="假期健康提醒编排服务"
+requires-python=">=3.10"
